@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Прыгающий пингвин</string>
+    <string name="start">Играть</string>
+    <string name="about">Об игре</string>
+    <string name="exit">Выйти</string>
+    <string name="back">Назад</string>
+    <string name="continue_game">Продолжить</string>
+    <string name="current_result_label">Текущий результат:\ </string>
+    <string name="new_best_result_label">Новый рекорд:\ </string>
+    <string name="current_best_result_label">Лучший результат:\ </string>
+    <string name="result_value">0</string>
+    <string name="confirm">Хотите покинуть игру?</string>
+    <string name="registration_label">Войдите или зарегестрируетесь</string>
+    <string name="send_form">Готово</string>
+    <string name="signing_in">Регистрация\ /\ Вход</string>
+    <string name="change_account">Выйти\ из\ аккаунта</string>
+</resources>

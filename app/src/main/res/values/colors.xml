@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue_200">#86C5FC</color>
+    <color name="blue_500">#034FD3</color>
+    <color name="blue_700">#0048B3</color>
+    <color name="teal_200">#51B6C4</color>
+    <color name="teal_700">#06695D</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="platform_color">#1B77A8</color>
+    <color name="energy_exist_color">#06EF53</color>
+    <color name="energy_leave_color">#5D605E</color>
+    <color name="main_text_color">#4F3197</color>
+    <color name="best_result_text_color">#006A48</color>
+    <color name="current_result_text_color">#8A4586</color>
+</resources>
